@@ -1,0 +1,10 @@
+aiogram==2.25.1
+beautifulsoup4
+pillow
+lxml
+requests
+
+python-dotenv
+
+ujson
+aiohttp[speedups]
